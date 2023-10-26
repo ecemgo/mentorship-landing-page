@@ -20,7 +20,9 @@ https://github.com/ecemgo/mentorship-landing-page/assets/13468728/8fdb1b1b-d753-
 ### Useful Resources
 
 - [ScrollReveal](https://scrollrevealjs.org/) 
-- [Tiny Slider](https://ganlanyuan.github.io/tiny-slider/demo/) 
+- [Tiny Slider](https://ganlanyuan.github.io/tiny-slider/demo/)
+- [Tilt JS](https://micku7zu.github.io/vanilla-tilt.js/) 
+
 
 ### Contact Me
 
