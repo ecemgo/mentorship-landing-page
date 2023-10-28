@@ -8,7 +8,6 @@ var slider = tns({
   center: true,
   loop: false,
   nav: false,
-  fixedWidth: 300,
   controlsContainer: "#custom-control",
   controlsPosition: "bottom",
 });
