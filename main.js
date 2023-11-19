@@ -16,11 +16,6 @@ var slider = tns({
 
 ScrollReveal({ distance: "30px", delay: 400 });
 
-// target elements, and specify options to create reveal animations
-ScrollReveal().reveal(".item", {
-  interval: 400,
-});
-
 ScrollReveal().reveal(".title", {
   delay: 300,
   interval: 300,
